@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../AppFirst実装例"
+		},
+		{
+			"path": "../AppFirst"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AppFirst"
+	}
+}
